@@ -16,6 +16,6 @@ This repository contains my professional CV as a Junior .NET Developer.
 ## 🔗 Related Links
 - https://github.com/sami-amara/MyShipping
 - https://www.linkedin.com/in/sami-amara-032b70416/
-- * **Email:** [samiamara.dev@gmail.com](mailto:samiamara.dev@gmail.com)
+- Email [samiamara.dev@gmail.com](mailto:samiamara.dev@gmail.com)
 
 
