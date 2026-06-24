@@ -3,8 +3,8 @@
 This repository contains my professional CV as a Junior .NET Developer.
 
 ## 📄 CV
-- [Download CV (Google Drive)](https://drive.google.com/file/d/1WZeZClIisGb0SrxjgfM0Mt-ihwQ4-zKE/view?usp=drive_link)
-- [View CV (GitHub PDF)](Sami_Amara_Junior_NET_Developer_CV.pdf)
+- [Download CV ](https://drive.google.com/file/d/1WZeZClIisGb0SrxjgfM0Mt-ihwQ4-zKE/view?usp=drive_link)
+- [View CV (GitHub PDF)](Sami Amara-CV.pdf)
 
 ## 🔧 Highlights
 - Built **MyShipping**, a full-stack shipping management platform with:
