@@ -3,7 +3,7 @@
 This repository contains my professional CV as a Junior .NET Developer.
 
 ## 📄 CV
-- [Download CV ](https://drive.google.com/file/d/1WZeZClIisGb0SrxjgfM0Mt-ihwQ4-zKE/view?usp=drive_link)
+ [Download CV ](https://drive.google.com/file/d/1WZeZClIisGb0SrxjgfM0Mt-ihwQ4-zKE/view?usp=drive_link)
 
 
 ## 🔧 Highlights
