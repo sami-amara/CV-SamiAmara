@@ -7,12 +7,17 @@ This repository contains my professional CV as a Junior .NET Developer.
 
 ---
 ## 🔧 Highlights
-- Built **MyShipping**, a full-stack shipping management platform with:
-  - ASP.NET Core MVC & SQL Server
-  - Stripe & PayPal payment integration with secure webhooks
-  - Analytics dashboard for shipments, revenue, and user activity
-  - SendGrid email workflows for password resets and account updates
-  - Localization (English/Arabic) with dynamic validation messages
+-Built MyShipping, a full-stack shipping management platform with:
+ASP.NET Core MVC, EF Core, SQL Server, and RESTful APIs
+Stripe & PayPal payment integration with secure webhook processing
+Factory Pattern-based shipment lifecycle engine
+Security Audit Dashboard for monitoring login failures, token reuse detection, rate limit breaches, and critical security events
+Shipment Audit Timeline with searchable shipment history, status tracking, review workflows, and user/IP auditing
+Asynchronous audit logging using Background Services and queue processing
+Correlation ID tracing for end-to-end request tracking and incident investigation
+Analytics dashboard for shipments, revenue, transactions, and user activity
+SendGrid-powered security and notification email workflows
+Arabic/English localization with dynamic validation and feedback messages
 ---
 ## 🔗 Related Links
 - https://github.com/sami-amara/MyShipping
