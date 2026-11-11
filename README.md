@@ -17,7 +17,7 @@ This repository contains my professional CV as a Junior .NET Developer.
     Correlation ID tracing for end-to-end request tracking and incident investigation
     Analytics dashboard for shipments, revenue, transactions, and user activity
     SendGrid-powered security and notification email workflows
-    Arabic/English localization with dynamic validation and feedback messages
+    Arabic/English localization with dynamic validation and feedback messages 
 ---
 ## 🔗 Related Links
 - https://github.com/sami-amara/MyShipping
